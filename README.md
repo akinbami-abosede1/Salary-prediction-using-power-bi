@@ -78,8 +78,8 @@ The predicted values are estimates and should not be interpreted as guaranteed s
 ## Project Files
 
 - **Power BI Dashboard (.pbix):** Contains the dashboard, DAX measures, visualizations, and interactive salary prediction functionality.
-- **Dataset:** The data used to analyze the relationship between years of experience and salary, subject to the dataset's usage permissions.
-- **Dashboard Screenshots:** Visual previews of the completed project, if included in the repository.
+- **Dataset:** The data used to analyze the relationship between years of experience and salary.
+- **Dashboard Screenshots:** Visual previews of the completed project.
 
 ## Conclusion
 
