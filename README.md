@@ -32,8 +32,9 @@ DAX measures were developed to calculate the slope and intercept of the regressi
 
 The simple linear regression model is expressed as:
 
-                          Y=a+bX
-
+```
+ Y=a+bX
+```
 Where:
 
 - \(Y\) = Predicted salary
@@ -50,6 +51,10 @@ A numeric range parameter was created in Power BI, allowing users to select year
 The selected value is used as the input for the regression model to calculate and display the corresponding predicted salary.
 
 This feature enables users to explore salary estimates interactively without manually changing the underlying data.
+
+### 4. Dashboard Visualization
+<img width="1363" height="631" alt="Salary_prediction_dashboard" src="https://github.com/user-attachments/assets/d73423d0-9380-402b-9c88-dcda5df6085d" />
+
 
 ## Key Features
 
@@ -77,13 +82,12 @@ The predicted values are estimates and should not be interpreted as guaranteed s
 
 ## Project Files
 
-- **Power BI Dashboard (.pbix):** Contains the dashboard, DAX measures, visualizations, and interactive salary prediction functionality.
-- **Dataset:** The data used to analyze the relationship between years of experience and salary.
-- **Dashboard Screenshots:** Visual previews of the completed project.
+- **Linear regression.pbix:** Contains the dashboard, DAX measures, visualizations, and interactive salary prediction functionality.
+- **Salary_Data:** The data used to analyze the relationship between years of experience and salary.
+- **Salary_prediction_dashboard:** Visual previews of the completed project.
 
 ## Conclusion
 
 This project demonstrates how Power BI can be used beyond descriptive reporting to perform basic predictive analysis. By combining scatter plot visualization, regression calculations, and interactive parameters, the dashboard allows users to explore estimated salaries at different levels of work experience.
 
-Tools: Power BI
 
